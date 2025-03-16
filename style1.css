@@ -1,0 +1,32 @@
+body {
+    font-size:large;
+    font-style: normal;
+    background-color:white;
+    margin:0;
+    padding: 100px;
+}
+
+.c1{
+
+    padding-left: 70px;
+}
+
+.c2{
+
+    padding-left:  70px;
+}
+
+.c3{
+
+    word-spacing:1em;
+}
+
+.container{
+
+    max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
